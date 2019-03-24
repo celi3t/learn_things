@@ -1,0 +1,8 @@
+todo list
+
+AB testing notes:
+- plot power / confidence levels
+- confidence intervals
+- talk about adoption rates
+- multivariate testing normalization
+- aab tests
